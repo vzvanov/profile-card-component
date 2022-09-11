@@ -48,7 +48,7 @@ I used Pixel Perfect;
 ## Author
 
 - git - [vzvanov](https://github.com/vzvanov)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/vzvanov)
+- Frontend Mentor - [@vzvanov](https://www.frontendmentor.io/profile/vzvanov)
 
 ## Acknowledgments
 
